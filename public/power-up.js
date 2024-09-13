@@ -41,7 +41,7 @@ const cardBadges = async (t, opts) => {
 // Register capabilities with Trello
 TrelloPowerUp.initialize({
     [CAPABILITY_BOARD_BADGE]: () => [{
-        icon: 'https://cdn.glitch.com/your-icon.png', // Replace with your icon URL
+        icon: 'https://batforce.org.au/wp-content/uploads/BAT.png',
         text: 'Views',
         callback: boardButtonCallback,
     }],
