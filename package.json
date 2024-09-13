@@ -1,0 +1,18 @@
+{
+  "name": "trello-view-tracker",
+  "version": "1.0.0",
+  "description": "A Trello Power-Up to track and display views on boards and cards",
+  "main": "public/power-up.js",
+  "scripts": {
+    "start": "netlify dev",
+    "build": "echo 'No build step defined'"
+  },
+  "dependencies": {
+    "netlify-lambda": "^2.0.0"  // Add any other dependencies you might need here
+  },
+  "devDependencies": {
+    "netlify-cli": "^12.0.0"
+  },
+  "author": "batforce",
+  "license": "MIT"
+}
