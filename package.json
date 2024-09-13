@@ -8,7 +8,7 @@
     "build": "echo 'No build step defined'"
   },
   "dependencies": {
-    "netlify-lambda": "^2.0.0"  // Add any other dependencies you might need here
+    "netlify-lambda": "^2.0.0"  
   },
   "devDependencies": {
     "netlify-cli": "^12.0.0"
