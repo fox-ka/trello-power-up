@@ -1,6 +1,6 @@
 /* global TrelloPowerUp */
 
-const VIEW_API = 'https://your-netlify-site.netlify.app/.netlify/functions/webhook-handler'; // Replace with your Netlify function URL
+const VIEW_API = 'https://batforce.netlify.app/.netlify/functions/webhook-handler';
 
 const CAPABILITY_BOARD_BADGE = 'board-buttons';
 const CAPABILITY_CARD_BADGE = 'card-badges';
